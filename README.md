@@ -8,3 +8,11 @@ In Statistics, Linear Regression is a linear approach for modelling the relation
 
 ### And our major focus is on the Selling Price 
 ![](Car%20Price%20Prediction/images/Screenshot%202022-11-30%20080750.jpg)
+
+### So Lets Get On To The Project
+In the [model.ipynp](Car%20Price%20Prediction/model.ipynb) file we have imported necessary libraries to perform various mathematical operations and training on and from the data and we have imported the csv file aswell.
+![](Car%20Price%20Prediction/images/Screenshot%202022-11-30%20082718.jpg)
+
+### Fetch the Company name and plot a heat map for the non-categorical values
+![](https://user-images.githubusercontent.com/104179274/204697913-d35ede18-80c0-4c89-b16e-f2d7d4acf591.png)
+
